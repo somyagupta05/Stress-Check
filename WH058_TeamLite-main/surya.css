@@ -1,0 +1,33 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+   
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 10px; 
+    
+}
+
+img {
+    max-width: 100%; 
+    height: auto; 
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    
+}
+figure{
+    border: 4px double black; 
+}
+figcaption{
+    font-size: xx-large;
+}

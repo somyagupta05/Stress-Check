@@ -1,0 +1,34 @@
+*{
+    margin: 10px;
+    padding: 10px;
+
+
+
+}
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    /* background: url(OIP.jpeg); */
+    font-size: xx-large;
+    background-color: black;
+    /* background-size: cover;
+    /* background-position: center; */
+    /* height: auto; */
+    /* height: 100%; */
+}
+a{
+    color: white;
+}
+.comtainer{
+    position: relative;
+}
+img{
+    position: absolute;
+    padding: 140px;
+    margin: 140px;
+    width: 25%;
+    top: 0;
+    right:0;
+}

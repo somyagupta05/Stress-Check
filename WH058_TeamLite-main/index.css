@@ -1,0 +1,53 @@
+
+    /* Define animation */
+#text-container {
+  text-align: center;
+  margin-top: 100px;
+  font-family: "Museo Sans";
+}
+.word-animation{
+    font-weight: 50px;
+}
+#text {
+  
+  font-size: 50px;
+  color: black;
+  font-weight: bold;
+  display: inline-block;
+  opacity: 1; /* Initially hide text */
+}
+
+button{
+    color: azure;
+}
+#text1 {
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
+  display: inline-block;
+  opacity: 1; /* Initially hide text */
+}
+    #imagefit{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+    }
+    #quoteDisplay{
+        padding-top: 200px;
+        padding-left: 100px;
+        text-decoration-thickness: 2px;
+
+        padding-bottom: 60px;
+        padding-right: 650px;
+        color: beige;
+    }
+    #quotebutton{
+        color: azure;
+        margin-left: 250px;
+        background-color: aquamarine;
+    }
+    .cp{
+       background-color: #5F374B;
+        margin-left: 50%;
+        margin-bottom: 40px;
+    }

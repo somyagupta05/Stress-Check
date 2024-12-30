@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+*{
+    margin: 10px;
+    padding: 10px;
+}
+body{
+   font-size: x-large;
+   background-color: white;
+   color:black;
+}
+button{
+    margin-left: 50%;
+    background-color: #036baa;
+    color:white;
+    align-self: center;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+#cp23{
+    text-decoration: underline;
+}
